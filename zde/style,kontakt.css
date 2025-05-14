@@ -1,0 +1,15 @@
+.uno{
+    font-size: 30px;
+    text-decoration: underline;
+    color:  rgb(134, 2, 2);
+}
+.dos{
+    font-size: 23px;
+}
+body{
+    background-color: rgb(179, 179, 179);
+}
+ul{
+margin: 300px auto 0 auto;
+margin-left: 100px;
+}
