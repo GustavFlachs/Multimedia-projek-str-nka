@@ -1,0 +1,40 @@
+.uno{
+    font-size: 30px;
+    text-decoration: underline;
+    color:  rgb(134, 2, 2);
+}
+.dos{
+    font-size: 23px;
+}
+body{
+    background-color: rgb(179, 179, 179);
+}
+ul{
+margin: 100px auto 0 auto;
+margin-left: 100px;
+}
+h1{
+    margin: 100px auto 0 auto;
+    margin-left: 150px;
+}
+hr {
+    border: none; /* Odstraní výchozí styl */
+    height: 2px; /* Nastaví tloušťku čáry */
+    background-color: #000; /* Nastaví barvu čáry */
+    margin: 20px 0; /* Přidá mezery nad a pod čárou */
+}
+h2{
+    margin: 50px auto 0 auto;
+    margin-left: 100px;
+}
+.foto1{
+    scale: 30%;
+    margin-left: -650px;
+    margin-top: -300px;
+}
+.foto2{
+    scale: 10%;
+}
+.foto3{
+    scale: 50%;
+}
