@@ -1,0 +1,46 @@
+.uno {
+    font-size: 26px;
+    text-decoration: underline;
+    color: rgb(134, 2, 2);
+}
+
+.dos {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+body {
+    background-color: rgb(179, 179, 179);
+    font-family: sans-serif;
+}
+
+ul {
+    margin-left: 100px;
+    line-height: 2;
+}
+
+h1 {
+    margin-left: 150px;
+    margin-top: 100px;
+    font-size: 32px;
+}
+
+h2 {
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 24px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #000;
+    margin: 20px 0;
+}
+
+.foto1, .foto2, .foto3 {
+    display: block;
+    margin: 20px auto;
+    max-width: 80%;
+    height: auto;
+}
